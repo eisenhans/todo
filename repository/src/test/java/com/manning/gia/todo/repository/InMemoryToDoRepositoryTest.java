@@ -25,7 +25,7 @@ public class InMemoryToDoRepositoryTest {
 
         assertEquals(1, toDoItems.size());
         assertEquals(toDoItem, toDoItems.get(0));
-		assertEquals("a", "b");
+		//assertEquals("a", "b");
     }
 
     @Test
